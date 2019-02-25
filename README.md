@@ -2,7 +2,25 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
+
+<img src="https://imgur.com/a/s5hVt2r.gif" width=250><br>
+
+### Notes
+I had an issue getting the URL for the superhero related movies. I had to manually type it from the instruction video, as the MovieDB API didn't seem to allow me to use the API without an API Key.
 
 ---
 
@@ -22,7 +40,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-https://imgur.com/a/l8lVuZs
+<img src="https://imgur.com/a/l8lVuZs.gif", width=250 />
 
 ### Notes
 The main challenge I had was connecting the movie poster images to the posterView outlet. Other than that, everything went well.
