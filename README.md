@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/d8be8ecd-212f-4bb2-84b3-0787a8c57316" width=250><br>
+<img src="https://imgur.com/a/l8lVuZs" width=250><br>
 
 ### Notes
 The main challenge I had was connecting the movie poster images to the posterView outlet. Other than that, everything went well.
