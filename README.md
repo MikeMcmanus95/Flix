@@ -40,7 +40,7 @@ I had an issue getting the URL for the superhero related movies. I had to manual
 
 ### App Walkthough GIF
 
-<img src="https://media.giphy.com/media/1BhGf740vDG4w2gXFK/giphy.gif", width=250 />
+<img src="https://media.giphy.com/media/1BhGf740vDG4w2gXFK/giphy.gif" width=250><br>
 
 ### Notes
 The main challenge I had was connecting the movie poster images to the posterView outlet. Other than that, everything went well.
